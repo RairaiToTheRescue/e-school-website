@@ -1,11 +1,7 @@
 .green-bg {
   background-color: #f0fff0;
-  width: 1400px;
-  height: 47px;
-  left: 0px;
-  top: 0px;  
 }
-.sign-in{
+.sign-color{
   background: #21B573;
   border-radius: 33px;
   width: 100px;
@@ -135,6 +131,7 @@
   #books br {
     display: none;
   }
+}
 
 @media screen and (max-width: 768px) {
   #books {
@@ -146,3 +143,4 @@
   .course-box {
     margin: 10px 0;
   }
+}
